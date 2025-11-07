@@ -1,4 +1,4 @@
-# predictive-maintenance-lstm
+# Turbofan-RUL-Forecasting-Diagnostics
 
 ## Overview
 Determining the time available before a likely failure and being able to predict failures can help business’ 
